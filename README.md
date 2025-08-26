@@ -1,7 +1,7 @@
 # Repository Tesi Accademiche
 Gianluca Conte 
-> https://www.linkedin.com/in/contegianluca/
-> contegianluca@hotmail.com
+>> https://www.linkedin.com/in/contegianluca/
+>> contegianluca@hotmail.com
 
 2009 - UniPi - M.sc. Matematica Applicata Economia - Tesi in Teoria dei Giochi in Negoziazioni Sociali
 
@@ -10,7 +10,7 @@ Gianluca Conte
 2022 - UniMi - M.sc. Cybersecurity - Tesi in Organizzazione, Gestione e Controllo della Sicurezza
 
 2025 - UniUd - Pg.Dip. Filosofia AI & Informazioni - Tesi in Modello Concettuale delle Rete Locali di Astrazione (RLA)
-> (exp Dic. 2025) -> Repository dedicato: https://github.com/Luke883i/RLA
+>> (exp Dic. 2025) -> Repository dedicato: https://github.com/Luke883i/RLA
 
 
 Working in Progress:

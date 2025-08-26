@@ -3,7 +3,6 @@ Gianluca Conte
 > https://www.linkedin.com/in/contegianluca/
 > contegianluca@hotmail.com
 
-
 2009 - UniPi - M.sc. Matematica Applicata Economia - Tesi in Teoria dei Giochi in Negoziazioni Sociali
 
 2011 - UniPi - M.sc. Audit & Diritto Penale di Impresa - Tesi in Gestione del Rischio Corruzione
@@ -13,3 +12,6 @@ Gianluca Conte
 2025 - UniUd - Pg.Dip. Filosofia AI & Informazioni - Tesi in Modello Concettuale delle Rete Locali di Astrazione (RLA)
 > (exp Dic. 2025) -> Repository dedicato: https://github.com/Luke883i/RLA
 
+
+Working in Progress:
+https://github.com/Luke883i/RLA-ECNN-bridge-PCE

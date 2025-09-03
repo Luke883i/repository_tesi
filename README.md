@@ -1,5 +1,5 @@
 # Repository Tesi Accademiche
-Gianluca Conte | https://www.linkedin.com/in/contegianluca | contegianluca@hotmail.com
+Gianluca Conte | https://www.linkedin.com/in/contegianluca
 
 2009 - UniPi - M.sc. Matematica Applicata Economia - Tesi in Teoria dei Giochi in Negoziazioni Sociali
 

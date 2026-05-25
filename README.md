@@ -7,4 +7,4 @@ Gianluca Conte | https://www.linkedin.com/in/contegianluca
 
 2022 - UniMi - M.sc. Cybersecurity - Tesi in Organizzazione, Gestione e Controllo della Sicurezza
 
-2025 - UniUd - Pg.Dip. Filosofia AI & Informazioni - Tesi in Modello Concettuale delle Rete Locali di Astrazione (RLA) | (exp Dic. 2025) 
+2025 - UniUd - Pg.Dip. Filosofia AI & Informazioni - Tesi in Modello Concettuale delle Rete Locali di Astrazione (RLA)
